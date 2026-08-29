@@ -1,3 +1,4 @@
 Task 1: VirtualWorks-Pharmacovigilance-Internship
 Task 2: Pharmacovigilance internship tasks completed during the VirtualWorks Lab Internship, including ADR identification, causality assessment, drug safety analysis, case studies, and related PV activities.
 Task 3: Causality Assessment Evaluation of the relationship between suspected drugs and adverse reactions using standard causality assessment methods and case-based classification.
+Task 4: Severity & Case Classification Classified adverse drug reactions based on **seriousness, severity, expectedness, and clinical.using multiple fictional case scenarios. This task included: Differentiation between serious and non-serious ADRs Classification of reaction severity as mild, moderate, or severe Assessment of expected and unexpected reactions Evaluation of hospitalization, disability, life-threatening events, and other medically important outcomes Case-wise clinical impact assessment using pharmacovigilance principles
